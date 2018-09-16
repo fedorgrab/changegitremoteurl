@@ -10,9 +10,13 @@ This util helps you to change all the projects remote urls. When you changed you
           
 # Usage:
 in a directory where u cloned a project write in command-line:
+
     `Apple$ python3 chgitusname.py all`
+    
 or
+
     `Apple$ python3 chgitusname.py one`
+    
     
   If you want to change all the config files in your project, you should use `all` arg. This only works if you have a directory where you store all the projects.
   
