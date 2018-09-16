@@ -3,8 +3,8 @@
 This util helps you to change all the projects remote urls. When you changed your username on github, all of your repos links are changed as well, but not locally. So, this script solves this problem and changes the config file in your projects:
 
 `.git/config`:
-      [remote "origin"]
-  	url = https://github.com/username/reponame.git
+      ```[remote "origin"]
+  	url = https://github.com/username/reponame.git```
   
 # Installation:
   The only way to install this util is to clone the project
