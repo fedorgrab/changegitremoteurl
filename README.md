@@ -4,9 +4,8 @@ This util helps you to change all the projects remote urls. When you changed you
 
 `.git/config`:
 
-      ```[remote "origin"]
-      
-  	url = https://github.com/username/reponame.git```
+```[remote "origin"]
+      	url = https://github.com/username/reponame.git```
   
 # Installation:
   The only way to install this util is to clone the project
