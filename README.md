@@ -19,7 +19,6 @@ or
 
 `Apple$ python3 chgitusname.py one`
     
-    
   If you want to change all the config files in your project, you should use `all` arg. This only works if you have a directory where you store all the projects.
   
   In case if you want to change just one project's config file you should use `one` arg.
